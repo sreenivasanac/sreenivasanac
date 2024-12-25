@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Krishna Raghav
+# 👋 Hi, I'm Sreenivasan AC
 
 ## 👀 Passionate about Artificial Intelligence (AI), Knowledge Management, and Software Automation
 
@@ -47,7 +47,7 @@ A multi-agent bot system designed to optimize domain name investment by automati
 - **Databases**: PostgreSQL (Drizzle, Prisma), MongoDB
 
 ### 🌟 Let's Connect
-- 📫 You can reach me through **LinkedIn**: [Krishna Raghav](https://www.linkedin.com/in/sreenivasan-ac/.
+- 📫 You can reach me through **LinkedIn**: [Sreenivasan AC](https://www.linkedin.com/in/sreenivasan-ac/.
 Feel free to explore my GitHub repositories to see my projects in action. If you're looking for someone with deep technical expertise and a passion for pushing the boundaries of AI,
 
 
