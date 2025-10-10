@@ -2,7 +2,7 @@
 
 ## 👀 Passionate about Artificial Intelligence (AI), Knowledge Management, and Software Automation
 
-Currently based in Virginia, USA, and soon relocating to the Bay Area, California! With over 8 years in Software Engineering, I bring experience in Backend, Full-stack, and Automation, and am now excited to be venturing into **AI Engineering**. My focus is on helping companies automate workflows and generate actionable insights from raw data, empowering informed decision-making.
+I'm soon looking to relocate to the Bay Area, California! With over 8 years in Software Engineering, I bring experience in Backend, Full-stack, and Automation, and am now excited to be venturing into **AI Engineering**. My focus is on helping companies automate workflows and generate actionable insights from raw data, empowering informed decision-making.
 
 ### 🔍 Areas of Interest
 - 💼 I'm passionate about **AI Engineering**, **Machine Learning**, **Deep Learning**, and **Software Automation**. My interests span across diverse applications, including:
@@ -23,6 +23,10 @@ A multi-agent bot system designed to optimize domain name investment by automati
 -  [Console Dashboard code](https://github.com/sreenivasanac/namesmith_console)
 -  [Project Documentation](https://coda.io/d/_dfkJDNYF-UH/NameSmith-Multi-Agent-system-for-Domain-name-generation_sut8dMDj)
 -  [Project Demo Video](https://youtu.be/hF3eGLudxY4?si=cjq-WM4z8OnIh0_T)
+
+Namesmith v2 under development
+Implemented from scratch
+- [Multi-agent Domain name system](https://github.com/sreenivasanac/namesmith/tree/agent_development_1)
 
 
 - My AI prompts that I use for Cursor IDE: https://github.com/sreenivasanac/cursor-prompts
