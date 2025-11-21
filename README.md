@@ -1,77 +1,114 @@
 # 👋 Hi, I'm Sreenivasan AC
 
-## 👀 Passionate about Artificial Intelligence (AI), Knowledge Management, and Software Automation
+### 🚀 Founding Engineer | AI Engineering | Software Automation
 
-I'm soon looking to relocate to the Bay Area, California! With over 9 years in Software Engineering, I bring experience in Backend, Full-stack, and Automation, and am now excited to be venturing into **AI Engineering**. My focus is on helping companies automate workflows and generate actionable insights from raw data, empowering informed decision-making.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sreenivasan_AC-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sreenivasan-ac/)&nbsp; [![Website](https://img.shields.io/badge/Website-Portfolio-green?style=flat&logo=google-chrome)](https://sreenivasanac.github.io/portfolio_website/)&nbsp; [![Twitter](https://img.shields.io/badge/Twitter-@sreenivasan__ac-1DA1F2?style=flat&logo=twitter)](https://twitter.com/sreenivasan_ac)&nbsp; [![Email](https://img.shields.io/badge/Email-sreenivasan.nitt@gmail.com-red?style=flat&logo=gmail)](mailto:sreenivasan.nitt@gmail.com)
+
+---
+
+## 👨‍💻 About Me
+
+With over **9 years** in Software Engineering, I bring deep experience in **Backend**, **Full-stack**, and **Automation**. I am now focused on **AI Engineering**, helping companies automate workflows and generate actionable insights from their data.
+
+I am a continuous learner, always in **sponge mode** 🧽 – absorbing new knowledge to stay at the forefront of **Generative AI**, **LLMs**, and **Agentic Workflows**.
 
 ### 🔍 Areas of Interest
-- 💼 I'm passionate about **AI Engineering**, **Deep Learning**, and **Software Automation**. My interests span across diverse applications, including:
-   - **Conversational interfaces**
-   - **Customer support automation**
-   - **Enterprise Knowledge Management**
-   - **Health-tech**
-   - **Document processing**
-   - **Legal tech**
-   - **Agentic workflows**
+*   🤖 **AI Engineering & Deep Learning**
+*   🗣️ **Conversational Interfaces & Agents**
+*   🏢 **Enterprise Knowledge Management**
+*   📄 **Document Intelligence (RAG)**
+*   🏥 **Health-tech & Legal-tech**
 
+---
 
-## Some of my projects
+## 🛠️ Technical Stack
 
-### 🤖 NameSmith — Agentic Domain Name Investment System
-A multi-agent bot system that automates domain name research, generation, scoring, purchasing, and reselling. Built with LangGraph.
-- Repo (agents): https://github.com/sreenivasanac/namesmith_agents
-- Repo (console): https://github.com/sreenivasanac/namesmith_console
-- Documentation: https://coda.io/d/_dfkJDNYF-UH/NameSmith-Multi-Agent-system-for-Domain-name-generation_sut8dMDj
-- Demo video: https://youtu.be/hF3eGLudxY4?si=cjq-WM4z8OnIh0_T
-- v2 version of the project in progress: https://github.com/sreenivasanac/namesmith/tree/agent_development_1
-- v2 version available at https://namesmith.pragnyalabs.com/
+### 🧠 AI & Machine Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat" alt="LangChain" />
+  <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/-Vector_DBs-black?style=flat" alt="Vector DBs" />
+  <img src="https://img.shields.io/badge/-RAG-FF6F00?style=flat" alt="RAG" />
+</p>
 
-### 🧠 Constella — Token‑Efficient Auto‑Grouping & Auto‑Labeling
-Clusters large text corpora via embeddings + deterministic K‑Means; sends only small representative samples to LLMs for optional labeling.
-- Repo: https://github.com/sreenivasanac/constella
+### 💻 Backend & Full Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
 
-### 🏭 BrahmaSumm — Enterprise Document Intelligence
-Transforms unstructured enterprise documents into searchable knowledge, summaries, and automated outputs with vector+graph RAG.
-- Website: https://brahmasumm.com/
-- Stack: FastAPI + Celery; PostgreSQL (metadata), MongoDB (unstructured); Azure AI Search & Document Intelligence; OpenAI/Groq/Ollama via LangChain; on‑prem/Azure; API‑key auth.
-- Capabilities: semantic/hybrid/faceted search; clustering & theme extraction; multi‑format summarization; Extracting knowledge from documents from various formats; document chat using Retrieval Augmented Generation.
+### ☁️ Cloud, DevOps & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+</p>
 
-### 🗂️ FileVyasa — AI-Powered Agentic Local File Organizer
-Desktop assistant that understands local files, proposes folder hierarchies, and executes safe move/rename operations with human‑in‑the‑loop review.
-- Repo: https://github.com/sreenivasanac/file-vyasa
-- Design: Tauri UI + Python/Agno agent backend; content‑aware extraction; Constella‑powered clustering; duplicate detection; rollback‑safe executor; BYOK remote LLMs and local models (Ollama)
+---
 
-### 🌐 Portfolio Website
-- Live: https://sreenivasanac.github.io/portfolio_website/
-- Code: https://github.com/sreenivasanac/portfolio_website?tab=readme-ov-file
+## 🚀 Professional Highlights
 
-### ✍️ Cursor IDE Prompts
-- Repo: https://github.com/sreenivasanac/cursor-prompts
+*   **[Brahmasumm AI](https://brahmasumm.com/)** | *Founding Engineer*
+    *   Designed RAG pipelines processing 50GB+ datasets for Fortune 500 clients (LBNL, ATMUS).
+    *   Deployed secure on-premises LLM solutions.
+*   **[Google](https://www.google.com/)** | *Senior Software Engineer*
+    *   Automated 1000+ daily datacenter operations, reducing manual intervention by 80%.
+*   **[Apple](https://www.apple.com/)** | *Senior Software Engineer*
+    *   Built Cloud Usage Insights platform enabling **$240k** in cost savings.
+*   **[Fathom Health](https://fathomhealth.com/)** | *Software Engineer*
+    *   Architected OCR pipeline for **900K+** medical records.
+*   **[Groupon](https://www.groupon.com/)** | *Software Engineer*
+    *   Co-architected mobile-responsive web apps and automated contract workflows.
 
-### 📞 Vanity Number Generator
-- Python package: https://github.com/sreenivasanac/vanitynumber
-- Frontend: https://github.com/sreenivasanac/vanitynumber-frontend
+---
 
-### 🧭 Career Compass
-- Repo: https://github.com/ikigai-app/career-compass
+## 💡 Featured Projects
 
+### 🤖 [NameSmith — Agentic Domain Name Investment System](https://github.com/sreenivasanac/namesmith_agents)
+A multi-agent system built with **LangGraph** that automates domain name research, generation, scoring, purchasing, and reselling.
+*   [Console Repo](https://github.com/sreenivasanac/namesmith_console) | [Demo Video](https://youtu.be/hF3eGLudxY4?si=cjq-WM4z8OnIh0_T) | [Live v2](https://namesmith.pragnyalabs.com/)
 
-- 📚 I'm a continuous learner, always in **sponge mode** – absorbing new knowledge to stay at the forefront of AI and software development. I follow the latest research in the field of **AI/ML** and **Generative AI** and try to implement them in my projects. My Twitter handle is [@sreenivasan_ac](https://twitter.com/sreenivasan_ac).
+### 🏭 [BrahmaSumm — Enterprise Document Intelligence](https://brahmasumm.com/)
+Vector+Graph RAG system transforming unstructured enterprise documents into searchable knowledge.
+*   **Stack**: FastAPI, Celery, PostgreSQL, MongoDB, Azure AI Search, LangChain.
 
-### 🚀 Professional Highlights
-- I have experience working with tech giants like **Google** and **Apple** as well as innovative startups, where I worked on cloud infrastructure, machine learning, and automation workflows that improve efficiency and reduce costs.
-  
-- I hold a **Master of Science in Computer Science** [(Georgia Tech)](https://www.gatech.edu/) , specializing in AI/ML, and a **Master of Engineering Management** ([Virginia Tech](https://www.ise.vt.edu/academics/graduate/mea.html)), where I deepened my knowledge in Management, Strategy, and Product Management.
+### 🗂️ [FileVyasa — AI-Powered Local File Organizer](https://github.com/sreenivasanac/file-vyasa)
+Desktop assistant for local file organization using content-aware extraction and clustering.
+*   **Stack**: Tauri, Python/Agno agents, Local LLMs (Ollama).
 
-### 🛠️ Technical Skills
-- **Backend & Scripting**: Python, TypeScript, Node.js, REST APIs, GraphQL
-- **AI Tools & Frameworks**: LangChain, LlamaIndex, Prompt Engineering, Fine-tuning, RAG, LangGraph
-- **Cloud**: AWS, Azure, Docker, Kubernetes
-- **Frontend**: Next.js, ReactJS
-- **Databases**: PostgreSQL (Drizzle, Prisma), MongoDB
+### 🧠 [Constella — Token-Efficient Auto-Grouping](https://github.com/sreenivasanac/constella)
+Clusters large text corpora via embeddings + K-Means for efficient labeling.
 
-### 🌟 Let's Connect
-- 📫 You can reach me through **LinkedIn**: [Sreenivasan AC](https://www.linkedin.com/in/sreenivasan-ac/.
-Feel free to explore my GitHub repositories to see my projects in action. If you're looking for someone with deep technical expertise and a passion for pushing the boundaries of AI,
+### 📊 [Quora Activity Analytics](https://github.com/sreenivasanac/quora_analysis)
+Agentic web scraping pipeline transforming 20K+ Quora answers into actionable dashboards.
 
+### 🧬 [Longevity Coach AI](https://devpost.com/software/healthgod-personalised-ai-health-longevity-coach)
+**Hackathon Winner**: RAG-based health guidance bot using scientific research articles.
 
+---
+
+## 🎓 Education & Achievements
+
+*   🎓 **Master of Science in Computer Science (AI/ML)** | [Georgia Tech](https://www.gatech.edu/)
+*   🏆 **ACM ICPC Regional Finalist** (Ranked #30/300+ teams)
+*   🌟 **Top 0.2% National Rank** in IIT-JEE/AIEEE (India)
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sreenivasan-ac/">Let's Connect on LinkedIn</a> • 
+  <a href="https://sreenivasanac.github.io/portfolio_website/">View Portfolio</a>
+</p>
