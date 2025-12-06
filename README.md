@@ -77,6 +77,11 @@ I am a continuous learner, always in **sponge mode** 🧽 – absorbing new know
 
 ## 💡 Featured Projects
 
+### 💬 [Keystone — AI Receptionist for Self-Care Businesses](https://github.com/sreenivasanac/receptionist_ai)
+AI-powered receptionist chatbot for salons, medspas, fitness studios, and clinics with booking, CRM, and analytics.
+*   **Stack**: FastAPI, React, Agno SDK, OpenAI GPT-4o-mini, SQLite.
+*   [Admin Demo](https://receptionist-ai.pragnyalabs.com/login) | [Live Widget Demo](https://sheela-salon.pragnyalabs.com/)
+
 ### 🤖 [NameSmith — Agentic Domain Name Investment System](https://github.com/sreenivasanac/namesmith_agents)
 A multi-agent system built with **LangGraph** that automates domain name research, generation, scoring, purchasing, and reselling.
 *   [Console Repo](https://github.com/sreenivasanac/namesmith_console) | [Demo Video](https://youtu.be/hF3eGLudxY4?si=cjq-WM4z8OnIh0_T) | [Live v2](https://namesmith.pragnyalabs.com/)
