@@ -77,6 +77,10 @@ I am a continuous learner, always in **sponge mode** 🧽 – absorbing new know
 
 ## 💡 Featured Projects
 
+### 🗂️ [FileVyasa — AI-Powered Local File Organizer](https://github.com/sreenivasanac/file-vyasa)
+Desktop assistant for local file organization using content-aware extraction and clustering.
+*   **Stack**: Tauri, Python/Agno agents, Local LLMs (Ollama).
+
 ### 💬 [Keystone — AI Receptionist for Self-Care Businesses](https://github.com/sreenivasanac/receptionist_ai)
 AI-powered receptionist chatbot for salons, medspas, fitness studios, and clinics with booking, CRM, and analytics.
 *   **Stack**: FastAPI, React, Agno SDK, OpenAI GPT-4o-mini, SQLite.
@@ -88,11 +92,7 @@ A multi-agent system built with **LangGraph** that automates domain name researc
 
 ### 🏭 [BrahmaSumm — Enterprise Document Intelligence](https://brahmasumm.com/)
 Vector+Graph RAG system transforming unstructured enterprise documents into searchable knowledge.
-*   **Stack**: FastAPI, Celery, PostgreSQL, MongoDB, Azure AI Search, LangChain.
-
-### 🗂️ [FileVyasa — AI-Powered Local File Organizer](https://github.com/sreenivasanac/file-vyasa)
-Desktop assistant for local file organization using content-aware extraction and clustering.
-*   **Stack**: Tauri, Python/Agno agents, Local LLMs (Ollama).
+*   **Stack**: FastAPI, Celery, PostgreSQL, Azure AI Search, LangChain.
 
 ### 🧠 [Constella — Token-Efficient Auto-Grouping](https://github.com/sreenivasanac/constella)
 Clusters large text corpora via embeddings + K-Means for efficient labeling.
