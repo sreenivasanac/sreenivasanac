@@ -10,11 +10,14 @@
 
 With over **9 years** in Software Engineering, I bring deep experience in **Backend**, **Full-stack**, and **Automation**. I am now focused on **AI Engineering**, helping companies automate workflows and generate actionable insights from their data.
 
+Most recently I was a **Founding Engineer at [Keystone](https://keystone.app/)**, one of its first engineers, building **AI agents that run sales and marketing for brick-and-mortar businesses** such as salons, medspas and fitness studios.
+
 I am a continuous learner, always in **sponge mode** 🧽 – absorbing new knowledge to stay at the forefront of **Generative AI**, **LLMs**, and **Agentic Workflows**.
 
 ### 🔍 Areas of Interest
 *   🤖 **AI Engineering & Deep Learning**
 *   🗣️ **Conversational Interfaces & Agents**
+*   📈 **AI Agents for Sales & Marketing**
 *   🏢 **Enterprise Knowledge Management**
 *   📄 **Document Intelligence (RAG)**
 *   🏥 **Health-tech & Legal-tech**
@@ -61,6 +64,10 @@ I am a continuous learner, always in **sponge mode** 🧽 – absorbing new know
 
 ## 🚀 Professional Highlights
 
+*   **[Keystone](https://keystone.app/)** | *Founding Engineer* (Jan 2026 – Dec 2026)
+    *   One of the first engineers at an early-stage startup whose AI agents run sales and marketing for brick-and-mortar businesses. Built a major part of the codebase from scratch and made early decisions on the agentic architecture, engineering practices and hiring.
+    *   Designed and built a voice agent that answers a business's missed and after-hours calls, and designed its evals (simulated-caller regression suite, LLM-judge scoring of live calls).
+    *   Built social posting to Facebook and Instagram with AI-generated content, lead and contact management (CRM), LLM-based import of a business's existing website data, and the design system.
 *   **[Brahmasumm AI](https://brahmasumm.com/)** | *Founding Engineer*
     *   Designed RAG pipelines processing 50GB+ datasets for Fortune 500 clients (LBNL, ATMUS).
     *   Deployed secure on-premises LLM solutions.
