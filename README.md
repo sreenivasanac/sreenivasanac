@@ -84,6 +84,39 @@ I am a continuous learner, always in **sponge mode** 🧽 – absorbing new know
 
 ## 💡 Featured Projects
 
+<p align="center">
+  <a href="https://callenvoy.pragnyalabs.com/"><img src="assets/projects/callenvoy.jpg" width="49%" alt="CallEnvoy landing page with a transcript of an AI phone call" /></a>
+  <a href="https://reviews.pragnyalabs.com/"><img src="assets/projects/review-sieve.jpg" width="49%" alt="Review Sieve audit of a business's reviews" /></a>
+</p>
+<p align="center">
+  <a href="https://deskrecall.pragnyalabs.com/"><img src="assets/projects/deskrecall.jpg" width="49%" alt="DeskRecall profiles window" /></a>
+  <a href="https://apartment.pragnyalabs.com/"><img src="assets/projects/spruce-apartment.jpg" width="49%" alt="Dollhouse view of the Spruce Apartment 3D model" /></a>
+</p>
+
+### 📞 [CallEnvoy — Phone-Call Server for AI Agents](https://github.com/sreenivasanac/holdforme)
+Any MCP client (Claude Code, Codex, Claude Desktop, Grok) asks it to call a business; the AI presses the menu keys, waits on hold and talks to the person. You can listen in and take over at any time.
+*   **Stack**: FastAPI, Pipecat, Twilio, Deepgram, GPT-4.1, MCP.
+*   [Live](https://callenvoy.pragnyalabs.com/)
+
+### 🔎 [Review Sieve — Honest Ratings from Model-Judged Reviews](https://reviews.pragnyalabs.com/)
+Reads a business's reviews on Google Maps, Yelp, Tripadvisor and Trustpilot and has models judge each one: an honest rating, the problems to watch for, and every review tagged genuine, generic, empty or suspicious.
+*   **Stack**: Python, a cheap model to tag every review and Grok to read only the genuine ones.
+
+### 🪟 [DeskRecall — Window Layouts That Come Back](https://github.com/sreenivasanac/deskrecall)
+macOS menu bar app that restores your window layout for whichever displays are connected: the right display, the right Mission Control desktop, the right size.
+*   **Stack**: Swift, macOS.
+*   [Website](https://deskrecall.pragnyalabs.com/)
+
+### 🏠 [Spruce Apartment 3D — Walkable To-Scale Apartment Model](https://github.com/sreenivasanac/spruce-apartment-3d)
+Three.js model of a one-bedroom apartment with dollhouse, plan and first-person walk views and an iPhone AR page. Every surface is drawn procedurally, with no external 3D assets.
+*   **Stack**: Three.js, WebGL.
+*   [Live](https://apartment.pragnyalabs.com/)
+
+### 🪔 [Sandhyāvandanam — Guided Practice Web App](https://github.com/sreenivasanac/sandhyavandanam)
+Guides practitioners through Sandhyāvandanam step by step, with mantras in the script of your choice, transliteration and meanings.
+*   **Stack**: React, TypeScript, Tailwind CSS, PWA.
+*   [Live](https://sandhya.pragnyalabs.com/)
+
 ### 🗂️ [FileVyasa — AI-Powered Local File Organizer](https://github.com/sreenivasanac/file-vyasa)
 Desktop assistant for local file organization using content-aware extraction and clustering.
 *   **Stack**: Tauri, Python/Agno agents, Local LLMs (Ollama).
