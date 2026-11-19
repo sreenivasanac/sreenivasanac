@@ -137,12 +137,6 @@ Vector+Graph RAG system transforming unstructured enterprise documents into sear
 ### 🧠 [Constella — Token-Efficient Auto-Grouping](https://github.com/sreenivasanac/constella)
 Clusters large text corpora via embeddings + K-Means for efficient labeling.
 
-### 📊 [Quora Activity Analytics](https://github.com/sreenivasanac/quora_analysis)
-Agentic web scraping pipeline transforming 20K+ Quora answers into actionable dashboards.
-
-### 🧬 [Longevity Coach AI](https://devpost.com/software/healthgod-personalised-ai-health-longevity-coach)
-**Hackathon Winner**: RAG-based health guidance bot using scientific research articles.
-
 ---
 
 ## 🎓 Education & Achievements
