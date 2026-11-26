@@ -92,6 +92,14 @@ I am a continuous learner, always in **sponge mode** 🧽 – absorbing new know
   <a href="https://deskrecall.pragnyalabs.com/"><img src="assets/projects/deskrecall.jpg" width="49%" alt="DeskRecall profiles window" /></a>
   <a href="https://apartment.pragnyalabs.com/"><img src="assets/projects/spruce-apartment.jpg" width="49%" alt="Dollhouse view of the Spruce Apartment 3D model" /></a>
 </p>
+<p align="center">
+  <a href="https://eklavya.pragnyalabs.com/"><img src="assets/projects/eklavya.jpg" width="49%" alt="Eklavya's website: the spoken request “Hey Drona, show me the video for pistol squat” beside the app's one screen" /></a>
+</p>
+
+### 🏋️ [Eklavya — Voice Gym Coach That Works Your Gym's App](https://github.com/sreenivasanac/eklavya)
+Android voice coach. Say "Hey Drona, show me the video for pistol squat" and it finds the exercise in your gym's app and plays the demo; say "count my squats" and it counts reps through the front camera and corrects your form.
+*   **Stack**: Kotlin, Android accessibility service, OpenAI GPT-Live, TypeSafe Jev, MediaPipe pose on the phone.
+*   [Website](https://eklavya.pragnyalabs.com/)
 
 ### 📞 [CallEnvoy — Phone-Call Server for AI Agents](https://github.com/sreenivasanac/holdforme)
 Any MCP client (Claude Code, Codex, Claude Desktop, Grok) asks it to call a business; the AI presses the menu keys, waits on hold and talks to the person. You can listen in and take over at any time.
